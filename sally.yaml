@@ -1,1 +1,7 @@
 ---
+
+url: breerly.github.io/test
+
+packages:
+  ptr:
+    repo: github.com/breerly/ptr
